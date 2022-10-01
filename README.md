@@ -1,2 +1,21 @@
 # Dress-Your-Story
 Dress Your Story is a outfit customization app which can be used to provide employment to non-professional designers as well as used by customers to customize their clothes in terms of fabric, design etc.
+
+
+Objective: The objective of 'Dress Your Story' is to provide a platform where designers, professionally equipped and otherwise, can design clothes according to customer requirements. Customers/users can design outfits, submit their ideas, get professional designers' opinions and advice, to finally submit their clothes for creation. These designs are then brought into fruition by tailors, professionally equipped and otherwise.
+
+Implementation: An app named 'Dress Your Story' shall be the medium for communication between customers, designers and tailors. After registering (name, phone number, email id, password, payment details), customers can filter the attires depending on occasion, type (ethnic, formals, etc.), articles (bottoms, tops, shirts, etc.), budget, etc. They can also choose on whether they wish a professional designer to work on their designs or whether they wish to opt for a non-professional (students and others). The non-professionals shall have a smaller wage per hour of work than the professionals.
+
+All ideas (abstract or drawn designs, etc) of the customers shall be submitted on the app, reviewed by service personnel (of the 'Dress Your Story' company), redirected to the appropriate designers (designers shall be different based on type and article and depending on the designers' preference and specialisation), checked by the latter wherein advice and opinions shall be provided to the customers. After discussion and contemplation which shall happen through chat, voice calls and video calls, depending on the requirement, between the customers and designers, the design shall be finalized upon, payment done by the customer and sent to tailors hired by the 'Dress Your Story' company. Here, the clothes shall be made in accordance with the restrictions put up by the customers and on completion, shall be delivered to the customers via a collaboration with a transportation service.
+
+Customers can also upload photos of influencers and celebrities wearing the attires for reference. This app can be used by people of all genders and ages (below 18 require guardian's permission for payment). If the customer wishes to make changes to the product at any point of time or cancel the order, additional charges shall be applicable. At all points of time in the app, the status of the product shall be visible to the customer. For communication, the customer's preferred messenger apps like WhatsApp, Instagram etc. shall be used. On receival of the order, customers can provide feedback through the app. In case of serious grievances, which can be submitted on the app with pictures and evidence, the 'Dress Your Story' service personnel shall look into it and the order can be returned and further sent to a different designer for correction or recreation. No additional fee shall be collected at such a situation.
+
+A section on the app shall be provided to post pictures of the product received. Other customers shall be able to explore through this section and on wish, order for the same clothes.
+
+Applications: Sensory issues are not taken into consideration majorly in the world of fashion. 'Dress Your Story' shall provide the option of choosing the appropriate fabric and fit. Cloth tags shall be optional for the same reason.
+
+In the hiring process of designers, students who wish to intern and unemployed/small scale/self-employed designers are given a preference. Fashion designing students and others can also obtain ideas, opinions and advice from designers available through the app.
+
+Final Result: 'Dress Your Story' caters to the desires of the masses. It has a wide scope as people are increasingly becoming fashion conscious and eager to express their identities. This app helps them be connected to professionals and other members of the designing community.
+
+Scope for the idea: On the success of the current idea, the app could be broadened to include customized shoes, bags and other accessories, stationery items etc.
